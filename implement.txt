@@ -1,0 +1,13 @@
+The execution of the program written for “Elect21” is successfully done. 
+The voter is successfully casting their votes to elected candidates. 
+Live voting count after voting is successfully showing and leading candidate is successfully updating according to the vote count.
+When we run the program, it will show the screen.
+
+Here  we have given that the unique id should be between 1-10. It can be change accordingly. 
+
+Now, suppose after voting once we went to vote again with the same unique id, then screen will be shown
+
+The whole programming is done keeping in view of what voter will see on their screen which is frontend view.
+We will keep updating the code in the near future as per the requirement. 
+We can also show here the list of voter through their unique id which is subject to privacy. 
+We can also include registration and login function in the near future for prior registration of voters
